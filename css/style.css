@@ -1,0 +1,27 @@
+
+body {
+    background-image: url(../img/tumblr_pqtzkoyWle1y5dk77o1_r1_1280.gif);
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input {
+    margin-bottom: 1rem;
+  }
+
+  .img-fluid{
+    width: 100px;
+    height: 100px;
+  }
+
+.fluid{
+  padding: 10rem;
+}
